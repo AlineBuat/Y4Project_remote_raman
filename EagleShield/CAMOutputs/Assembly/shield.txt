@@ -1,0 +1,12 @@
+Partlist exported from C:/Users/aline/Documents/EAGLE/projects/ArduinoDueShield/shield.sch at 27/04/2022 15:18
+
+Qty Value   Device              Package            Parts                    Description                POPULARITY SPICEMODEL SPICEPREFIX
+1           ARDUINO_DUE_SHIELD  ARDUINO_DUE_SHIELD ARDUINO_DUE1                                                                         
+1           PINHD-1X2           1X02               POWERSUPPLY              PIN HEADER                 98                               
+2           PINHD-1X3           1X03               MIRROR1, MIRROR2         PIN HEADER                 92                               
+2   100n    C-EUC0201           C0201              C1, C2                   CAPACITOR, European symbol 0                     C          
+3   10k     POTENTIOMETER_PT-10 PT-10              RGAIN1, RGAIN2, R_OFFSET Potentiometer              15         POT        X          
+4   10k     R-EU_0207/10        0207/10            R4, R5, R6, R7           RESISTOR, European symbol  81                    R          
+2   2.2k    R-EU_0207/10        0207/10            R1, R8                   RESISTOR, European symbol  81                    R          
+1   LM321MF LM321MF             SOT23-5            IC1                      Low Power Single Op Amp    0                                
+1   LM324D  LM324D              SO14               IC2                      OP AMP                     1                                
