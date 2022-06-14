@@ -1,4 +1,4 @@
-# Y4Project_public
+# Y4Project_remote_raman
 Final Year MEng Biomedical Engineering Individual Project code
 
 Project title "Detecting Bioweapons with Standoff Raman Spectroscopy"
