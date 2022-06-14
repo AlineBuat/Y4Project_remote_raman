@@ -1,7 +1,9 @@
 # Y4Project_remote_raman
 Final Year MEng Biomedical Engineering Individual Project code
+Created by Aline BUAT, 2021-2022
 
 Project title "Detecting Bioweapons with Standoff Raman Spectroscopy"
+
 These are code and files used during the project and used to generate the figures in the Final Report.
 
 This repository contains the following folders:
